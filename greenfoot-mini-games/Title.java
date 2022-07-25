@@ -52,13 +52,13 @@ public class Title extends World
     {
         if(Greenfoot.mouseClicked(arcadeButton)) {
             click.play();
-            //Greenfoot.setWorld(new GameHall());
+            Greenfoot.setWorld(new GameHall());
         }
         if(Greenfoot.mouseClicked(exitButton)) {
             click.play();
             removeObjects(getObjects(null));
             setBackground(new GreenfootImage("ExitScreen.png"));
-            //GoldenTickets.setTickets(100);
+            GoldenTickets.setTickets(100);
             bgm.pause();
             Greenfoot.stop();
         }
