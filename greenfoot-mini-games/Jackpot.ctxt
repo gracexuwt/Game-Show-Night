@@ -1,7 +1,14 @@
 #BlueJ class context
 comment0.target=Jackpot
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Jackpot\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment0.text=\r\n\ The\ player\ can\ spin\ a\ jackpot\ spinner\r\n\ \r\n\ @author\ Melanie\r\n\ @version\ 1\r\n
 comment1.params=
 comment1.target=Jackpot()
 comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Jackpot.\r\n\ \r\n
-numComments=2
+comment2.params=
+comment2.target=void\ act()
+comment3.params=n\ nums\ prize
+comment3.target=int\ checkTiles(int,\ int[],\ int)
+comment3.text=\r\n\ After\ a\ spin,\ this\ method\ checks\ the\ number\ of\ a\r\n\ certain\ tile\ in\ the\ combo\r\n\ @param\ n\ \=\ corresponding\ number\ of\ tile\ type\ in\ spinner\ array\r\n\ @param\ nums\ \=\ array\ of\ combo\r\n\ @param\ prize\ \=\ how\ much\ each\ tile\ is\ worth\r\n
+comment4.params=arr\ img\ c
+comment4.target=void\ addImageArray(greenfoot.GreenfootImage[][],\ greenfoot.GreenfootImage,\ int)
+numComments=5
