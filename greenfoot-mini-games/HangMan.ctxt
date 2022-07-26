@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HangMan
+comment0.text=\r\n\ This\ is\ the\ Hangman\ mini\ game.\ The\ player\ wins\ if\ they\ guessed\r\n\ all\ the\ correct\ letters\ in\ a\ random\ word.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=HangMan()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ HangMan.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=index\ color
+comment3.target=void\ showLetter(int,\ greenfoot.Color)
+comment4.params=letter\ color
+comment4.target=greenfoot.GreenfootImage\ getLetterImage(java.lang.String,\ greenfoot.Color)
+numComments=5
