@@ -4,19 +4,19 @@
 ###### Program used in development: Greenfoot Java
 ###### Purpose of project: Gain game development experience
 ###### How to start game: Download Greenfoot and open the game, then press on "Act" to start
-
-
+<br/>
+<br/>
 Game Show Night is a game that collects a series of mini games, including Rock Paper Scissors, Hangman, Memory Cards, and Jackpot.
 There are also many features: Shop, Inventory, and Achievements.
 Collect Golden Tickets and buy all the cute items from the Shop! Have fun =)
 
-
-
+<br/>
+<br/>
 Attention: The player needs to download the Greenfoot engine to start the game
 Cheat: In Shop, press the space bar once to obtain 200 Golden Tickets
 
-
-
+<br/>
+<br/>
 Title page:
 
 ![image](https://user-images.githubusercontent.com/92956740/181174829-11dcdd49-63d6-45fa-861f-00c7cc7c7610.png)
