@@ -12,7 +12,7 @@ Collect Golden Tickets and buy all the cute items from the Shop! Have fun =)
 
 <br/>
 <br/>
-Attention: The player needs to download the Greenfoot engine to start the game
+Attention: The player needs to download the Greenfoot engine to start the game<br/>
 Cheat: In Shop, press the space bar once to obtain 200 Golden Tickets
 
 <br/>
